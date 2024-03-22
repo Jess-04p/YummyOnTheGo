@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom/client';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <h1>hello world</h1>
+    <h1>Let's Start</h1>
   </React.StrictMode>
 );
 
